@@ -1,11 +1,11 @@
 package = "lua-resty-redis-client"
-version = "dev-1"
+version = "redistls-1"
 source = {
     url = "git://github.com/artomal/lua-resty-redis.git",
     branch = "feat/redis-client-tls",
 }
 description = {
-    summary = "Redis Library for OpenResty – Flexible and Secure",
+    summary = "Redis Client Library for OpenResty – Flexible and Secure",
     homepage = "https://github.com/artomal/lua-resty-redis",
     license = "BSD"
 }
